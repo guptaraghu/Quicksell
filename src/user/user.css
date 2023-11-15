@@ -1,0 +1,19 @@
+.contentname{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 0;
+    /* padding: 0 2px; */
+  }
+  
+  .contentname h3{
+    margin: 0 10px;
+  }
+  .smallboxContent{
+    margin: 0 10px;
+  }
+  .details{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+  }

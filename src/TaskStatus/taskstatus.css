@@ -1,0 +1,32 @@
+.LargeboxContent{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 60px;
+    font-size: 0.8rem;
+}
+
+.contentname{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    /* margin-top: 60px; */
+}
+
+.contentname h3{
+    margin: 0 10px;
+}
+
+.smallboxContent{
+    margin: 0 10px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
